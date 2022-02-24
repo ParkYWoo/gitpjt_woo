@@ -4,7 +4,9 @@ public class NewsController {
 	void aaa() {
 		
 	}
-	
+	void mybranch() {
+		
+	}
 	
 	
 }
