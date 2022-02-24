@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: JSL505-024
 Build-Jdk: 1.8.0_271
+=======
+Built-By: jsl505
+Build-Jdk: 1.8.0_301
+>>>>>>> 984d071a6c234d7828c2dd824237ebeed88552fc
 Created-By: Maven Integration for Eclipse
 
